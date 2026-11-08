@@ -74,16 +74,11 @@ test/                           unit test model, service, dan widget test
 
 Catatan keamanan: jangan commit API key ke GitHub. Gunakan `--dart-define` seperti di atas.
 
-## Tangkapan Layar
-
-Letakkan gambar di `docs/screenshots/` lalu tautkan di sini:
-
-| Layar awal | Hasil cuaca | Kota tidak ditemukan | Tanpa internet |
-|---|---|---|---|
-| ![awal](docs/screenshots/01_awal.png) | ![hasil](docs/screenshots/02_hasil.png) | ![error](docs/screenshots/03_error.png) | ![offline](docs/screenshots/04_offline.png) |
-
 ## Anggota Kelompok
 
 | Nama | NIM |
 |---|---|
-| (isi) | (isi) |
+| Nathania Okke Febriantri | 25170003 |
+| Jovan Putra Wijaya       | 25170004 |
+| Naufal Marzuki Fadhil    | 25170018 |
+| Cantika Dwi Utari        | 25170023 |
